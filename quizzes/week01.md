@@ -38,7 +38,7 @@ Cascading Style Sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-Class, Selector, Variable, 
+Class, Selector, Property, 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
