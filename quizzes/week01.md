@@ -56,13 +56,13 @@ body
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+  <ol> <li> <ul>
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+flex allows elements to be transformed in relativity to their sibling elements
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
